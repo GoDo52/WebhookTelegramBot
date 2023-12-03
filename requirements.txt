@@ -1,0 +1,9 @@
+gunicorn
+Flask~=2.3.2
+werkzeug~=2.3.6
+sslcrypto
+pyTelegramBotAPI
+datetime~=5.2
+tg-logger
+pytz~=2023.3
+requests~=2.31.0
